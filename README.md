@@ -3,7 +3,7 @@
 This is a simple CLI that prints "Hello, World!", written in Rust. While this is basic, it serves as a way for me to create a README and learn the basics of building a Rust project, while also playing around with basic Git commands.
 
 ## Explanation
-- `src` is the directory for the source o.
+- `src` is the directory for the source code.
 - `.gitignore` is a list of every directory/files that won't be pushed to GitHub.
 - `Cargo.toml` contains basic information about the project.
 - `Cargo.lock` is maintained by Cargo and pins down dependencies exact version. Should not be edited.
