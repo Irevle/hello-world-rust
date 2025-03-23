@@ -9,7 +9,7 @@ This is a simple CLI that prints "Hello, World!", written in Rust. While this is
 - `Cargo.lock` is maintained by Cargo and pins down dependencies exact version. Should not be edited.
 
 ## Installation
-a. You can get this by simply running `cargo new hello-world` which will create a directory with the name `hello-world` which has the same file content. Then move to the directory with `cd hello-world`
+a. You can get this by simply running `cargo new hello-world` which will create a directory with the name `hello-world` which has the same file content. Move to the directory with `cd hello-world`, run `cargo build`, and lastly `cargo run`.
 
 b. Or, the GitHub way:
 1. Clone this repo
